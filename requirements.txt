@@ -24,4 +24,4 @@ python-pptx
 python-dateutil
 setuptools
 colorama
-mcp
+mcp<2
